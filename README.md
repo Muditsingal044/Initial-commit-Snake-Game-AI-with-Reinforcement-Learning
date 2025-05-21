@@ -19,3 +19,7 @@ This project implements an AI agent that learns to play the Snake game using Q-l
 ## Installation
 ```bash
 pip install pygame torch numpy matplotlib ipython
+
+
+## Run the code
+python python.py
